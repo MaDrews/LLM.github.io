@@ -3,7 +3,7 @@
 
 ## Group: LLMs and Democracy  
 ### Group members:  
-Matthias Drews uni-tuebingen.de  
+Matthias Drews  
 Tabea Stier  
 Jule Weber  
 mail: firstname.lastname(at)student.uni-tuebingen.de
