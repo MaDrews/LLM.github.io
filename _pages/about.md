@@ -18,7 +18,7 @@ It is obvious that there is a huge hype about this topic, since all of the parti
 However, as figure 2 shows, the technique of language models and the inner workings are unknown to an equally large group of participants.
 
 ![figure2](/LLM.github.io/assets/images/figure2.png )
-</figcaption>Figure 2: Knowledge on LLMs.
+<figcaption>Figure 2: Knowledge on LLMs.
 This shows that LLMs have a huge impact on our society and simultaneously what a mystery LLMs are for most.</figcaption>
 
 When asked what they associated with LLMs in the context of democracy, most participants used optimistic words, such as “helpful” or “opportunity”. However, the scepticism about this new technology became evident through words like “risk” and “dangerous” (see figure 3).
@@ -28,7 +28,7 @@ When asked what they associated with LLMs in the context of democracy, most part
 
 It is clear that using LLMs for democratic processes is perceived as ambivalent and there is a need to look into this in more detail.
 
-To shed light on this highly popular topic, this blog first explains how LLMs work on the BACKGROUND posts. Then, five scenarios on how language models can impact our democracy are explicated. The scenarios first lay down an initial situation and then present a best case and worst case on how these LLMs could be used. Keep in mind that all scenarios assume state-of-the-art models, which also means that the models don’t have a consciousness or will on their own and are therefore not able to be malicious in itself. The worst case scenario happens either because of malicious human use or unintentionally implemented biases. 
+To shed light on this highly popular topic, this blog first explains how LLMs work on the [Background](/LLM.github.io/background/) posts. Then, [five scenarios](/LLM.github.io/posts/) on how language models can impact our democracy are explicated. The scenarios first lay down an initial situation and then present a best case and worst case on how these LLMs could be used. Keep in mind that all scenarios assume state-of-the-art models, which also means that the models don’t have a consciousness or will on their own and are therefore not able to be malicious in itself. The worst case scenario happens either because of malicious human use or unintentionally implemented biases. 
 
 This blog should provide some food for thought on what chances and risks LLMs bring for our democracy and what precautions need to be taken by individuals and citizens to prevent a negative influence of these powerful models. 
 
