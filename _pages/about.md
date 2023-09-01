@@ -19,7 +19,8 @@ However, as figure 2 shows, the technique of language models and the inner worki
 
 ![figure2](/LLM.github.io/assets/images/figure2.png )
 <figcaption>Figure 2: Knowledge on LLMs.
-This shows that LLMs have a huge impact on our society and simultaneously what a mystery LLMs are for most.</figcaption>
+</figcaption>
+This shows that LLMs have a huge impact on our society and simultaneously what a mystery LLMs are for most.
 
 When asked what they associated with LLMs in the context of democracy, most participants used optimistic words, such as “helpful” or “opportunity”. However, the scepticism about this new technology became evident through words like “risk” and “dangerous” (see figure 3).
 
