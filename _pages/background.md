@@ -24,7 +24,12 @@ Up to this point, most LLMs are roughly similar. They differ in vocabulary size,
 Still, there are some things that LLMs can't do, and we need to be aware of this when using them. First, most LLMs only have training data up to a certain point. This is to prevent the model from learning a bias from the input data. Therefore, some models can't answer questions about historical events after the time of their training data.  
 They can't make moral judgments like humans can, because they don't have a conscience. They can only reflect the moral viewpoints they have encountered in their training.  
 Finally, they are not one hundred percent correct. They rely on probability, and that doesn't guarantee correct answers, so we have to question the answers of an LLM.  
-Let's keep this in mind as we consider the following scenarios of how LLMs might influence our democracy.  
+Let's keep this in mind as we consider the following scenarios of how LLMs might influence our democracy.
+  
+Figures:  
+
+Jurafsky, D., & Martin, J. H. (2023). Speech and Language processing: An introduction to natural language processing, computational linguistics, and speech recognition. In Prentice Hall eBooks (3rd ed. draft). https://web.stanford.edu/~jurafsky/slp3/  
+References:  
 
 Cambridge Dictionary. (2023). Retrieved August 20, 2023, from https://dictionary.cambridge.org/dictionary/english/cat  
 
