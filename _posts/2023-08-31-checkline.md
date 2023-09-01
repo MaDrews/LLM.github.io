@@ -1,7 +1,7 @@
 ---
 title: "CheckLine: fake news detection on social media"
 #date: 2019-04-19T15:34:30-04:00
-date: 2023-08-31T14:20:02+02:00
+date: 2023-08-31T17:40:02+02:00
 categories:
   - blog
 tags:
