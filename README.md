@@ -6,7 +6,8 @@
 Matthias Drews  
 Tabea Stier  
 Jule Weber  
-mail: firstname.lastname(at)student.uni-tuebingen.de
+mail: firstname.lastname(at)student.uni-tuebingen.de  
+
 Our blog can be found here:
 https://github.com/MaDrews/LLM.github.io  
 This is the first page:
