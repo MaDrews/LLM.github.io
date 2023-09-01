@@ -8,7 +8,7 @@ tags:
   - Story
   - LLM
 ---
-![fakenews](/LLM.github.io/assets/images/fakenews.jpg )
+![fakenews](/LLM.github.io/assets/images/fakenews.png)
 Fake news, hate speech and propaganda have always been a big issue for democratic societies. Especially with the rise of the Internet and social media, it has become easy to reach a large group of people with harmful opinions and deceptive statements. Large Language Models have had a significant impact on these issues as they can write propaganda that is persuasive with little human editing or even completely on its own (Goldstein et al., 2023). Also, the automatization of language agents has caused a flood synthetic (fake news) writing on social media.
 
 As a consequence, users are easily manipulated into believing a contorted picture of reality. Furthermore, misinformation campaigns pose a threat to democratic discourse and democratic institutions as manipulation of a big group of people can prevent formation of informed opinions and decisions. 
